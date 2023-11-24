@@ -7,7 +7,12 @@
               email: "rebeca@gmail.com",
               telefone:"11 97696-3167",
               senha:"123",
-              endereco:""
+              endereco: [
+                {
+                    logradouro: 'gfdgdfg',
+                    cep: 'fdgfdg'    
+            }
+              ]
 
         },
         {
@@ -95,11 +100,19 @@
             avaliacoes:
         },
         {
-            nome: Pizza de peperoni com queijo,
+            nome: "Pizza de peperoni com queijo",
             descricao:
             imagem:
             preco: "19,00"
             avaliacoes:
+
         },
+        {
+            nome: "Coca - cola",
+            descricao:
+            imagem:
+            preco: "19,00"
+            avaliacoes:
+        }
       ]
  }
