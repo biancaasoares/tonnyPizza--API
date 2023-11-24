@@ -47,23 +47,22 @@
         {
             nome: "pizzas",
             imagem:"",
-            descricao: 
-
+            descricao: "menu de pizzas em geral (salgada,doces,brotinhos...)"
         },
         {
             nome: "bebidas",
             imagem:"",
-            descricao: 
+            descricao: "menu de bebidas em geral (sucos naturais, refrigerantes,cervejas...)"
         },
         {
             nome: "frutas",
             imagem:"",
-            descricao: 
+            descricao: "menu de frutas em geral (banana,melancia,kiwi...)"
         },
         {
             nome: "sobremesas",
             imagem:"",
-            descricao: 
+            descricao: "menu de sobremesas em geral (sorvetes, chocolates, brownie)"
         }
      ]
  };
@@ -72,47 +71,112 @@
       verProdutos : 'Produtos'
       [
         {
-              nome: "Pizza de calabreza com queijo",
-              descricao:
-              imagem:
-              preco: "16,00"
-              avaliacoes:
+              nome: "Pizza de calabresa com queijo",
+              descricao:" Pizza preparada no forno á lenha, contendo massa fininha preparada á moda Italiana, contendo molho de tomate, queijo e calabresa.",
+              imagem:"",
+              preco: "16,00",
+              avaliacoes:"",
+              comentarios: [
+                {
+                    texto: "",
+                    classificacao:"",
+                    usuario:"",
+                    data:""
+                }
+              ]
         },
         {
             nome: "Pizza de peperoni com queijo",
-            descricao:
-            imagem:
-            preco: "19,00"
-            avaliacoes:
+            descricao:"Pizza preparada no forno á lenha, contendo massa fininha preparada á moda Italiana, contendo molho de tomate, queijo e peperoni.",
+            imagem:"",
+            preco: "19,00",
+            avaliacoes:"",
+            comentarios: [
+                {
+                    texto: "",
+                    classificacao:"",
+                    usuario:"",
+                    data:""
+            }
+              ]
         },
         {
             nome: "Pizza de peperoni com queijo e tomate",
-            descricao:
-            imagem:
-            preco: "16,00"
-            avaliacoes:
+            descricao:"Pizza preparada no forno á lenha, contendo massa fininha preparada á moda Italiana, contendo molho de tomate, queijo e tomate.",
+            imagem:"",
+            preco: "16,00",
+            avaliacoes:"",
+            comentarios: [
+                {
+                    texto: "",
+                    classificacao:"",
+                    usuario:"",
+                    data:""
+            }
+              ]
         },
         {
             nome: "Pizza brotinho com queijo e tomate",
-            descricao:
-            imagem:
-            preco: "12,00"
-            avaliacoes:
+            descricao:"Pizza preparada no forno á lenha, contendo massa fininha preparada á moda Italiana, contendo molho de tomate, queijo e tomate.",
+            imagem:"",
+            preco: "12,00",
+            avaliacoes:"",
+            comentarios: [
+                {
+                    texto: "",
+                    classificacao:"",
+                    usuario:"",
+                    data:""
+            }
+              ]
         },
         {
-            nome: "Pizza de peperoni com queijo",
-            descricao:
-            imagem:
-            preco: "19,00"
-            avaliacoes:
+            nome: "Pizza de Frango com Catupiry",
+            descricao:"Pizza preparada no forno á lenha, contendo massa fininha preparada á moda Italiana, contendo molho de tomate, frango e catupiry *Possui borda extra*",
+            imagem:"",
+            preco: "19,00",
+            avaliacoes:"",
+            comentarios: [
+                {
+                    texto: "",
+                    classificacao:"",
+                    usuario:"",
+                    data:""
+            }
+              ]
 
         },
         {
-            nome: "Coca - cola",
-            descricao:
-            imagem:
-            preco: "19,00"
-            avaliacoes:
-        }
-      ]
+            nome: "Coca - cola 2L",
+            descricao:"Refrigerante Coca-Cola sabor original contém água gaseificada, açúcar, extrato de noz de cola, cafeína, corante caramelo IV, acidulante ácido fosfórico e aroma natural.",
+            imagem:"",
+            preco: "14,99",
+            avaliacoes:"",
+            comentarios: [
+                {
+                    texto: "",
+                    classificacao:"",
+                    usuario:"",
+                    data:""
+            }
+              ]
+        },
+        {
+            nome: "Cerveja Heniken",
+            descricao:"Cerveja lager Puro Malte, refrescante , produzida com ingredientes 100% naturais: água, malte e lúpulo",
+            imagem:"",
+            preco: "17,99",
+            avaliacoes:"",
+            comentarios: [
+                {
+                    texto: "",
+                    classificacao:"",
+                    usuario:"",
+                    data:""
+            }
+              ]
+        
+        },
+    
+    ]
  }
